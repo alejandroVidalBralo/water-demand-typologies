@@ -1,0 +1,3 @@
+config_id,scaling,reduction,reduction_params,clustering,clustering_params,silhouette_mean,silhouette_sd,davies_bouldin_mean,davies_bouldin_sd,n_clusters_mean,n_noise_mean,cluster_sizes_first_run
+M03493,minmax,UMAP,"{'n_components': 10, 'n_neighbors': 100, 'min_dist': 0.01}",Agglomerative,{'n_clusters': 4},0.7291394293308258,0.0204889547340227,0.3816053289288709,0.0301167005191102,4.0,0.0,"{0: 113, 1: 76, 2: 139, 3: 38}"
+M14360,none,UMAP,"{'n_components': 2, 'n_neighbors': 5, 'min_dist': 0.01}",Agglomerative,{'n_clusters': 6},0.7229212880134582,0.0323587423317121,0.351735903989283,0.0481032070039236,6.0,0.0,"{0: 158, 1: 52, 2: 63, 3: 47, 4: 8, 5: 38}"
