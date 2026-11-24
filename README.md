@@ -90,8 +90,7 @@ names in `config.py`:
 | `hours_covered` | optional; hours covered by the reading (> 1 after missed readings)            |
 
 The raw readings of the study were provided by a water utility under data-protection constraints and are not publicly
-available. The aggregated daily profiles can be requested from the corresponding author and will be shared with the
-permission of the utility. With them, steps 2 to 4 reproduce the results of the paper.
+available.
 
 ## Notes on reproducibility
 
